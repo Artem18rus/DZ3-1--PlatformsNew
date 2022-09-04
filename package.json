@@ -1,0 +1,19 @@
+{
+  "name": "@artem18rus/dz3-1--platformsnew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem18rus/DZ3-1--PlatformsNew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem18rus/DZ3-1--PlatformsNew/issues"
+  },
+  "homepage": "https://github.com/Artem18rus/DZ3-1--PlatformsNew#readme"
+}
